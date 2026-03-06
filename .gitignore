@@ -1,0 +1,8 @@
+# Python
+__pycache__/
+*.pyc
+venv/
+*.env
+
+# NLTK Data - Large directory, should not be in version control
+nltk_data/
