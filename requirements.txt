@@ -1,0 +1,39 @@
+# Core & Data Handling
+numpy
+pandas
+scipy
+scikit-learn
+
+# LLM & Generation 
+transformers
+torch
+accelerate
+
+# BEM metric 
+tensorflow
+tensorflow-hub
+tensorflow-text
+protobuf 
+
+# --- Metrics Libraries ---
+
+# Lexical Metrics
+rouge-score
+sacrebleu
+nltk
+
+# Semantic Metrics & Learned Metrics
+sentence-transformers
+bert-score
+gensim
+spacy
+POT
+bleurt-pytorch
+protobuf
+bitsandbytes 
+
+# Prompt-Based Metrics
+ragas
+datasets 
+langchain-huggingface
+tonic-validate 
